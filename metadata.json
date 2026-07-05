@@ -1,0 +1,8 @@
+{
+  "name": "สมุดบัญชีจัดการรายรับรายจ่าย",
+  "description": "แอปพลิเคชันจัดการรายรับ รายจ่าย สรุปผลแบบรายเดือน วิเคราะห์ข้อมูลทางการเงินด้วยกราฟ พร้อมระบบล็อกอินด้วย Google และบัญชีทดลองสำหรับใช้งานบนมือถือ",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
